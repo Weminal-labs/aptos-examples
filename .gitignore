@@ -1,0 +1,15 @@
+dist
+node_modules
+.next
+.DS_Store
+.idea
+.env
+.aptos
+package-lock.json
+build
+.next
+target
+config.yaml
+local.config.yaml
+cloud.config.yaml
+next-env.d.ts
